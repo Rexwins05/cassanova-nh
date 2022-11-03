@@ -1,0 +1,66 @@
+body
+{
+    background-color: #2B2024;
+    text-align: center;
+    
+}
+.main
+{
+    background-color: antiquewhite;
+    width: 50%;
+    margin: auto;
+}
+hr
+{
+    width: 60%;
+    border: #A80038 1.1vw ;
+    border-style: dotted none none;
+    
+}
+div
+{
+    background-color: #FBF9FA;
+    width:40%;
+    text-align: center;
+    margin: auto;
+    border-radius: 10%;
+    padding-bottom: 20vw;
+}
+.origin
+{
+    background-color: #FBF9FA;
+    width: auto 40%;
+    text-align: center;
+    margin: auto;
+    border-radius: 5%;
+}
+
+.appearance
+{
+    background-color: #FBF9FA;
+    
+}
+.personality
+{
+    background-color: #FBF9FA;
+    
+}
+.facts
+{
+    background-color: #FBF9FA;
+    
+}
+h1
+{
+-webkit-text-fill-color: black;
+}
+h2
+{
+    -webkit-text-fill-color: #FD0054;
+
+}
+h3
+{
+    -webkit-text-fill-color: black;
+
+}
