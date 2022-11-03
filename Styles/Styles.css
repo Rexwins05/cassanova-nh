@@ -20,7 +20,7 @@ hr
 div
 {
     background-color: #FBF9FA;
-    width:40%;
+    width:auto;
     text-align: center;
     margin: auto;
     border-radius: 10%;
@@ -29,7 +29,7 @@ div
 .origin
 {
     background-color: #FBF9FA;
-    width: auto 40%;
+    width: auto;
     text-align: center;
     margin: auto;
     border-radius: 5%;
@@ -53,11 +53,12 @@ div
 h1
 {
 -webkit-text-fill-color: black;
+font-size: 8vw;
 }
 h2
 {
     -webkit-text-fill-color: #FD0054;
-
+    font-size: 6vw;
 }
 h3
 {
